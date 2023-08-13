@@ -1,0 +1,9 @@
+Does not work: 
+Gaussian mixture models
+Greedy Gausian Segmentation
+lstm (weaker than GRU)
+probabilistic labels
+
+Need to try: 
+Pyts algorithm
+Gru 
