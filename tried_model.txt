@@ -3,6 +3,14 @@ Gaussian mixture models (GMM)
 Greedy Gausian Segmentation (GGS)
 lstm (weaker than GRU)
 probabilistic labels
+RNN
+PCA
+XGBRegressor
+KMean
+naive Bayes
+logistic regression
+support vector machines 
+Random Forest
 
 Need to try: 
 Pyts algorithm
