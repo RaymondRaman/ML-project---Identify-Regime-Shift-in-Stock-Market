@@ -51,10 +51,6 @@ Chose log returns over simple/cumulative returns, ensuring stationary, additive 
 
 🌟Together, let's reach for the stars! 
 
-#FintechJourney #DataDrivenDiscoveries #InnovationInFinance #NeverStopLearning #MachineLearning #StockMarket #DataScience #RegimeShift #HiddenMarkovModel #Finance #MarketRegimeShifts #MarketDynamics #FinTech #FinancialModeling #FinancialDataScience
-
-#PredictiveAnalytics #FinTechInnovation #MLinFinance
-
- 
+#FintechJourney #DataDrivenDiscoveries #InnovationInFinance #NeverStopLearning #MachineLearning #StockMarket #DataScience #RegimeShift #HiddenMarkovModel #Finance #MarketRegimeShifts #MarketDynamics #FinTech #FinancialModeling #FinancialDataScience#PredictiveAnalytics #FinTechInnovation #MLinFinance
 
 https://github.com/RaymondRaman/ML-project---Identify-Regime-Shift-in-Stock-Market
