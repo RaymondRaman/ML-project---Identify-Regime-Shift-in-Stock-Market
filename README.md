@@ -3,7 +3,7 @@
 
 A deep dive into identifying market regime shifts using Machine Learning!  [Source code included]
 
-
+![train_df_on_S P_500_Regimes](https://github.com/RaymondRaman/ML-project---Identify-Regime-Shift-in-Stock-Market/assets/107023977/b2ad5991-9182-410c-9861-53eba50bfb61)
 
 🌟 Inspired by an ongoing machine learning project at Wealth Management Cube Ltd, I have executed data cleaning, visualization,  feature selection, modeling and verification in this side project. Here's some key highlights:
 
