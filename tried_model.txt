@@ -11,7 +11,3 @@ naive Bayes
 logistic regression
 support vector machines 
 Random Forest
-
-Need to try: 
-Pyts algorithm
-Gru 
