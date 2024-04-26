@@ -1,5 +1,5 @@
 # ML-project---Identify-Regime-Shift-in-Stock-Market
-📊 Excited to share My Latest self-motivated Side Project 📈📉
+📊 Excited to share My Latest Side Project 📈📉
 
 A deep dive into identifying market regime shifts using Machine Learning!  [Source code included]
 
